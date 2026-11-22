@@ -1,0 +1,61 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+body{
+    line-height:2pc;
+    font-family:'Times New Roman', Times, serif;
+    color:grey;
+    background-color:antiquewhite;
+
+}
+header{
+    background-color:blue;
+    padding:25px;
+    text-align:center;
+    color:springgreen;
+
+
+}
+nav{
+    background-color:beige;
+    padding:15px;
+    text-align:center; 
+}
+
+main {
+    padding: 30px;
+    min-height: 350px;
+}
+
+section {
+    background-color:rgb(189, 116, 20);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+article {
+    background-color: violet;
+    padding: 15px;
+    COLOR:gold;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+h1{
+    color:aquamarine;
+}
+nav a{
+    color:red;
+}
+nav a:hover{
+    background-color:white;
+    color:greenyellow;
+}
+footer{
+    background-color:blue;
+    padding:25px;
+    color:yellowgreen;
+    text-align:center;
+}
